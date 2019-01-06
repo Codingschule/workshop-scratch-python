@@ -14,6 +14,20 @@
 
 [Woche 6: Python - Tupel & Dictionaries](https://github.com/Codingschule/workshop-scratch-python/blob/master/slides/woche6_python_scratch.pdf)
 
+[Woche 7: Python - Funktionen](https://github.com/Codingschule/workshop-scratch-python/blob/master/slides/woche6_python_scratch.pdf)
+
+[Woche 8: Python - Bibliotheken](https://github.com/Codingschule/workshop-scratch-python/blob/master/slides/woche6_python_scratch.pdf)
+
+[Woche 9: Python - Wiederholung](https://github.com/Codingschule/workshop-scratch-python/blob/master/slides/woche6_python_scratch.pdf)
+
+[Woche 10: Python - Dateien & Exceptions](https://github.com/Codingschule/workshop-scratch-python/blob/master/slides/woche6_python_scratch.pdf)
+
+[Woche 11: Abschlussprojekt](https://github.com/Codingschule/workshop-scratch-python/blob/master/slides/woche6_python_scratch.pdf)
+
+[Woche 12: Abschlussprojekt](https://github.com/Codingschule/workshop-scratch-python/blob/master/slides/woche6_python_scratch.pdf)
+
+[Woche 13: Versionsverwaltung - Git & Github](https://github.com/Codingschule/workshop-scratch-python/blob/master/slides/woche6_python_scratch.pdf)
+
 ## Link zu den Aufgabenblättern
 
 ### Woche 3:
@@ -36,3 +50,18 @@
 [Aufgabenblatt 1](https://github.com/Codingschule/workshop-scratch-python/blob/master/aufgaben/aufgabenblatt1_woche4.pdf)
 
 [Aufgabenblatt 2](https://github.com/Codingschule/workshop-scratch-python/blob/master/aufgaben/aufgabenblatt2_woche4.pdf)
+
+
+### Woche 7:
+
+### Woche 8:
+
+### Woche 9:
+
+### Woche 10:
+
+### Woche 11:
+
+### Woche 12:
+
+### Woche 13:
